@@ -1,6 +1,7 @@
 # Change these first
 owner: GreepTheSheep # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
+user-agent: GreepTheSheep
 
 sites:
   - name: Greep website
@@ -10,16 +11,21 @@ sites:
   - name: Frames In Order - Tangled
     url: https://tangledframesapi.greep.gq/user
 
+robotsText: "User-agent: * \n Disallow: /"
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.greep.gq
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/GreepTheSheep/greepthesheep.github.io/master/images/icon.png
   name: Greep
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: 
+  introMessage: 
+  theme: dark
   navbar:
+    - title: Website
+      href: https://www.greep.gq
     - title: Status
       href: /
     - title: GitHub
