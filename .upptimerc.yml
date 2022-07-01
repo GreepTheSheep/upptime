@@ -22,7 +22,7 @@ status-website:
   name: Greep
   introTitle: 
   introMessage: 
-  theme: dark
+  theme: night
   navbar:
     - title: Website
       href: https://www.greep.gq
