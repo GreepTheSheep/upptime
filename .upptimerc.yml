@@ -40,5 +40,8 @@ workflowSchedule:
   updates: "0 */1 * * *"
   uptime: "*/5 * * * *"
 
+skipDescriptionUpdate: true
+skipTopicsUpdate: true
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
