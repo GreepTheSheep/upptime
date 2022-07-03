@@ -6,10 +6,19 @@ user-agent: GreepTheSheep
 sites:
   - name: Greep website
     url: https://www.greep.gq
+    icon: https://raw.githubusercontent.com/GreepTheSheep/greepthesheep.github.io/master/images/icon.png
+  - name: Discord Bot - Trackmania.io#5624
+    url: $WEBSITE_TMIOBOT_PATH
+    icon: https://cdn.discordapp.com/avatars/810191349214871583/3c1cdc77aeb0dd47cf1ce782c79e4c78.png
+    headers:
+      - "Authorization: Token $WEBSITE_TMIOBOT_TOKEN"
+      - "Content-Type: application/json"
   - name: Node-Trackmania.io Docs
     url: https://tmio.greep.gq
+    icon: https://greep.gq/images/tmio.png
   - name: Frames In Order - Tangled
     url: https://tangledframesapi.greep.gq/user
+    icon: https://greep.gq/images/frames.png
 
 robotsText: "User-agent: * \n Disallow: /"
 
