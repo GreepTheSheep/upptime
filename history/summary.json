@@ -4,18 +4,20 @@
     "url": "https://www.greep.gq",
     "icon": "https://raw.githubusercontent.com/GreepTheSheep/greepthesheep.github.io/master/images/icon.png",
     "slug": "greep-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 749,
-    "timeDay": 941,
-    "timeWeek": 772,
-    "timeMonth": 749,
-    "timeYear": 749,
-    "dailyMinutesDown": {}
+    "time": 753,
+    "timeDay": 1022,
+    "timeWeek": 779,
+    "timeMonth": 753,
+    "timeYear": 753,
+    "dailyMinutesDown": {
+      "2022-07-19": 1
+    }
   },
   {
     "name": "Discord Bot - Trackmania.io#5624",
@@ -29,8 +31,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 241,
-    "timeDay": 229,
-    "timeWeek": 242,
+    "timeDay": 225,
+    "timeWeek": 241,
     "timeMonth": 241,
     "timeYear": 241,
     "dailyMinutesDown": {}
@@ -40,36 +42,39 @@
     "url": "https://tmio.greep.gq",
     "icon": "https://greep.gq/images/tmio.png",
     "slug": "node-trackmania-io-docs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 327,
-    "timeDay": 373,
+    "timeDay": 390,
     "timeWeek": 344,
     "timeMonth": 327,
     "timeYear": 327,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-19": 1
+    }
   },
   {
     "name": "Frames In Order - Tangled",
     "url": "https://tangledframesapi.greep.gq/user",
     "icon": "https://greep.gq/images/frames.png",
     "slug": "frames-in-order-tangled",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.68%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.87%",
     "time": 671,
-    "timeDay": 753,
+    "timeDay": 758,
     "timeWeek": 699,
     "timeMonth": 671,
     "timeYear": 671,
     "dailyMinutesDown": {
+      "2022-07-19": 0,
       "2022-07-14": 32
     }
   }
