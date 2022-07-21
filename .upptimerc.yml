@@ -41,8 +41,8 @@ status-website:
       href: https://github.com/$OWNER/$REPO
 
 workflowSchedule:
-  graphs: "0 */1 * * *"
-  responseTime: "*/15 * * * *"
+  graphs: "0 */2 * * *"
+  responseTime: "0 */1 * * *"
   staticSite: "0 */3 * * *"
   summary: "0 0 * * *"
   updateTemplate: "0 0 * * *"
