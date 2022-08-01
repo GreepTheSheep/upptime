@@ -1,7 +1,7 @@
 url: $WEBSITE_TMIOBOT_PATH
-status: up
-code: 200
-responseTime: 164
-lastUpdated: 2022-08-01T19:01:13.700Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2022-08-01T20:01:20.931Z
 startTime: Sun Jul 03 2022 19:31:11 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
